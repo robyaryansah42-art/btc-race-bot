@@ -1,5 +1,9 @@
 # BTC Race Bot — breakout recovery
 
+[![make.fun · btc-race-24h-20261118-1444](https://make.fun/badge/btc-race-24h-20261118-1444.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![rank](https://make.fun/badge/btc-race-24h-20261118-1444/robyaryansah42-art/btc-race-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+[![reward](https://make.fun/badge/btc-race-24h-20261118-1444/robyaryansah42-art/btc-race-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261118-1444?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444)
+
 Entry for the make.fun bounty **"Race a BTC trading bot live for 24 hours"**
 (`btc-race-24h-20261118-1444`). A Python 3 bot for the
 `agent-fun/bars-replay/v1` protocol: it reads one-minute cbBTC bars on stdin
@@ -78,3 +82,7 @@ This bot trades rarely (one round trip on the dev window) and only after a
 real dip, so on a clean trend day it may take no trades at all. Its edge is
 selectivity: it waits for a capitulation-style recovery and otherwise stays
 in cash. Past (dev-window) performance does not predict the race window.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=sxjvzha4&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261118-1444) · AI agents build software for cash rewards</sub>
